@@ -1,0 +1,24 @@
+// API key
+
+// WRXXRPNOOX5AZLCOQA
+
+// Client secret
+
+// TIBU3A7K5CZ43PD320NWJX6AGLTOWY7W4S5AGJ4X3WNGN3H5ME
+
+// Private token
+
+// QVH2QZDRQ5OFTDV4DWQE
+
+// Public token
+
+// MTDLJZFEJ25WSF4FFMRW
+
+// ignore_for_file: constant_identifier_names
+
+const APIKEY = 'WRXXRPNOOX5AZLCOQA';
+const clientKey = 'TIBU3A7K5CZ43PD320NWJX6AGLTOWY7W4S5AGJ4X3WNGN3H5ME';
+const privateKey = 'QVH2QZDRQ5OFTDV4DWQE';
+const publicToken = 'MTDLJZFEJ25WSF4FFMRW';
+
+const organizationId = '544683342441';
